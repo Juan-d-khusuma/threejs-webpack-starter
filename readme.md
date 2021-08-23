@@ -22,7 +22,7 @@ npm run build
 
 or
 
-````bash
+```bash
 # Install dependencies (only the first time)
 yarn
 

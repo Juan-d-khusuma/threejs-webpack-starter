@@ -11,5 +11,5 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true
   },
-  "exclude": ["webpack", "./public"]
+  "exclude": ["./public", "./webpack"]
 }
